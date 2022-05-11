@@ -1,0 +1,10 @@
+To setup the github for blitz-tix:
+  1. Replicate the repository, sepcifically the blitz-tix-node
+  2. Open Visual Studio Code
+      In the terminal window:
+          run npm isntall
+          react install
+          and then the npm start works
+          
+        More details here:
+        Front-end: https://github.com/ANDX-Entertainment/Blitz-Tix-Node/tree/main/blitz-tix#readme 
